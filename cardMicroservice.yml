@@ -20,4 +20,4 @@ app:
   name: Microservice card Dev
   description: Card Microservice manages client payment cards, including card issuance, activation, deactivation, and lifecycle management.
   build: 1.0.0
-  card-number: AR786007
+  cardNumber: AR786007
