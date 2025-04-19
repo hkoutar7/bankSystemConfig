@@ -1,0 +1,22 @@
+spring:
+
+  # Database Settings
+  datasource:
+    url: jdbc:postgresql://localhost:5434/db_bank_card
+    username: king
+    password: 123456789
+    initialization-mode: never
+    initialize: false
+
+  # Spring Data JPA Settings
+  jpa:
+    hibernate:
+      ddl-auto: none
+      show-sql: false
+
+# Proprties
+app:
+  name: Microservice card QA
+  description: Card Microservice manages client payment cards, including card issuance, activation, deactivation, and lifecycle management.
+  build: 2.0.0
+  card-number: 99TBA601
