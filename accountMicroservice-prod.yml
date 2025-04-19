@@ -5,7 +5,14 @@ spring:
     url: jdbc:postgresql://localhost:5432/db_bank_account
     username: king
     password: 123456789
+    initialization-mode: never
+    initialize: false
 
+  # Spring Data JPA Settings
+  jpa:
+    hibernate:
+      ddl-auto: none
+      show-sql: false
 
 # Properties
 app:
