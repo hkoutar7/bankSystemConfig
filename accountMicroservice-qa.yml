@@ -1,0 +1,19 @@
+spring:
+
+  # Database Settings
+  datasource:
+    url: jdbc:postgresql://localhost:5432/db_bank_account
+    username: king
+    password: 123456789
+
+
+# Properties
+app:
+  name: Microservice account QA
+  description: Accounts Microservice manages client information and bank accounts, including account creation, transactions, and balance tracking with auditing and security features.
+  build: 2.0.0
+  support-emails: bank-contact4@support.com,bank-contact5@support.com,bank-contact6@support.com
+  support-phones:
+    - +212 34567690
+    - +212 67654445
+    - +212 77650085
