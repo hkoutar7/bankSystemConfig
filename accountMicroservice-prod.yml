@@ -16,7 +16,7 @@ spring:
 
 # Properties
 app:
-  name: Microservice account Prod
+  name: Microservice account Production
   description: Accounts Microservice manages client information and bank accounts, including account creation, transactions, and balance tracking with auditing and security features.
   build: 3.0.0
   support-emails: bank-contact9@support.com,bank-contact7@support.com,bank-contact8@support.com

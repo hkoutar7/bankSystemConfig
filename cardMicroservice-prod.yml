@@ -16,7 +16,7 @@ spring:
 
 # Proprties
 app:
-  name: Microservice card Prod
+  name: Microservice card Production
   description: Card Microservice manages client payment cards, including card issuance, activation, deactivation, and lifecycle management.
   build: 3.0.0
   cardNumber: 89KOPL5612
