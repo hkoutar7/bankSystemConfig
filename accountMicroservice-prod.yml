@@ -16,11 +16,11 @@ spring:
 
 # Properties
 app:
-  name: Microservice account Production
+  name: Microservice account Prod
   description: Accounts Microservice manages client information and bank accounts, including account creation, transactions, and balance tracking with auditing and security features.
   build: 3.0.0
-  support-emails: bank-contact9@support.com,bank-contact7@support.com,bank-contact8@support.com
+  support-emails: bank-contact9@support.com,bank-contact7@support.com,bank-contact11@support.com
   support-phones:
-    - +1 34567690
-    - +1 67654445
-    - +1 77650085
+    - +44 34567690
+    - +44 67654445
+    - +44 77650085

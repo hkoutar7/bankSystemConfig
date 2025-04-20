@@ -16,7 +16,7 @@ spring:
 
 # Proprties
 app:
-  name: Microservice card QA
+  name: Microservice card Test
   description: Card Microservice manages client payment cards, including card issuance, activation, deactivation, and lifecycle management.
   build: 2.0.0
   cardNumber: 99TBA601

@@ -17,7 +17,7 @@ spring:
 
 # Properties
 app:
-  name: Microservice account QA
+  name: Microservice account Test
   description: Accounts Microservice manages client information and bank accounts, including account creation, transactions, and balance tracking with auditing and security features.
   build: 2.0.0
   support-emails: bank-contact4@support.com,bank-contact5@support.com,bank-contact6@support.com
