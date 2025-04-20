@@ -1,4 +1,5 @@
 spring:
+
   # Database Settings
   datasource:
     url: jdbc:postgresql://localhost:5434/db_bank_card
@@ -15,7 +16,7 @@ spring:
 
 # Proprties
 app:
-  name: Microservice card Production
+  name: Microservice card Prod
   description: Card Microservice manages client payment cards, including card issuance, activation, deactivation, and lifecycle management.
   build: 3.0.0
-  cardNumber: FFKOPL5612
+  cardNumber: 89KOPL5612
