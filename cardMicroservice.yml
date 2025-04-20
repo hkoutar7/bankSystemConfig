@@ -17,7 +17,7 @@ spring:
 
 # Proprties
 app:
-  name: Microservice card Development
+  name: Microservice card Dev
   description: Card Microservice manages client payment cards, including card issuance, activation, deactivation, and lifecycle management.
   build: 1.0.0
   cardNumber: 89866T0
