@@ -16,11 +16,11 @@ spring:
 
 # Properties
 app:
-  name: Microservice account Development
+  name: Microservice account Dev
   description: Accounts Microservice manages client information and bank accounts, including account creation, transactions, and balance tracking with auditing and security features.
   build: 1.0.0
   support-emails: bank-contact1@support.com,bank-contact2@support.com,bank-contact3@support.com
   support-phones:
-    - +1 34567690
+    - +33 34567690
     - +33 67654445
-    - +34 77650085
+    - +33 77650085
