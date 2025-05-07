@@ -1,17 +1,3 @@
-spring:
-  # Database Settings
-  datasource:
-    url: jdbc:postgresql://localhost:5432/db_card
-    username: king
-    password: Lf6N7KV+ypznOEaeiIQWsQ==
-    initialization-mode: always
-    initialize: true
-
-  # Spring Data JPA Settings
-  jpa:
-    hibernate:
-      ddl-auto: update
-      show-sql: true
 
 # Proprties
 app:
