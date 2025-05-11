@@ -2,7 +2,7 @@ spring:
 
   # Database Settings
   datasource:
-    url: jdbc:postgresql://localhost:5432/db_card
+    url: jdbc:postgresql://localhost:5439/db_card
     username: king
     password: Lf6N7KV+ypznOEaeiIQWsQ==
     initialization-mode: always
