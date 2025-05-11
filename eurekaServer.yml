@@ -3,3 +3,7 @@ app:
   name: Eureka Server Development
   description: Eureka Microservice.
   build: 1.0.0
+
+server:
+  port:
+    8011
